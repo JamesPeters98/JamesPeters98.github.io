@@ -16,6 +16,8 @@ Some key tools used in this project include:
 
 1. A custom Travis CI workflow - since some plugins require access to public methods in the Minecraft source code the plugin must be built against a decompiled Minecraft source, this source cannot be distributed and therefore must be decompiled directly on the CI server itself. To achieve this I had to modify the BuildTools project that is normal used to decompile the source code so that it would only decompile new source code if changes were detected in the git repo. This change was made in this [PR](https://hub.spigotmc.org/stash/projects/SPIGOT/repos/buildtools/commits/19d26b6581b57fdb0b75577c32fd525c4371860e).
 
+2. Maven submodules - since each version of Minecraft adds/removes features from the game the plugin api and original Minecraft source code is changed. To be able to support multiple versions of Minecraft a submodule api is used to interface with the new or changed methods or the API or Minecraft source code. 
+
 
 
 ---
