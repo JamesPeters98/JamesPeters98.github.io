@@ -23,7 +23,9 @@ Some key points about this project include:
 ---
 [Master's Project - N-Body Simulations & Their Applications](https://github.com/JamesPeters98/Java-NBody-Simulation)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+For my Thesis I created a gravitational N-Body simulator in Java. I implemented four different integrators of different orders: a 1st, 2nd and two 4th order - the Euler, Leapfrog, Yoshida and Runge-Kutta respectively. This project provided me with a platform to showcase my skills in Java academically and further developed them along with my problem solving and analytical skills. 
+
+An aspect of this project I am particularly proud of is my derivation for the conditions of an eclipse, using vector geometry and trigonemetry. Along with the derivation for an estimation of the intensity of the eclipse too.
 
 
 ---
