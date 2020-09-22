@@ -21,12 +21,10 @@ Some key points about this project include:
 3. Pull Requests to the Spigot api - To help remove the amount of code that has to be changed for each version of Minecraft I made some PR's ([Here](https://hub.spigotmc.org/stash/projects/SPIGOT/repos/craftbukkit/commits/8fb65851f12f78c26ca979377370395e64c8a61f) and [here](https://hub.spigotmc.org/stash/projects/SPIGOT/repos/bukkit/commits/eeb1042f1ac356cc989dd1c4e35b37ee0ab93891)) to the Spigot API in order to achieve some features that I needed for my plugin, for instance it wasn't possible to set a Chest's animation state which was required due to the custom inventory implementation used.
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Master's Project - N-Body Simulations & Their Applications](https://github.com/JamesPeters98/Java-NBody-Simulation)
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
