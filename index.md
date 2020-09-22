@@ -9,7 +9,7 @@
 This is my largest personal project in Java, which makes use of the Bukkit/Spigot plugin api to create modifcations to the Minecraft server experience. The plugin is quite in depth and adds a range of features such as 'linking' Chests over infinite distances and worlds, filtering chests using Hoppers and Auto-Crafting - along with a range of other useful features.
 
 <p align="center">
-<img width="50%" src="https://camo.githubusercontent.com/3ca42289c124bad4db92f273e1c057ff65ee247e/68747470733a2f2f692e696d6775722e636f6d2f543143713674382e706e67"/>
+<img src="https://camo.githubusercontent.com/3ca42289c124bad4db92f273e1c057ff65ee247e/68747470733a2f2f692e696d6775722e636f6d2f543143713674382e706e67"/>
 </p>
 
 Some key tools used in this project include:
