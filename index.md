@@ -9,6 +9,9 @@
 * [Custom CPU Assembler](#custom-cpu-assembler)
 * [Hibernate - Football Simulator](#hibernate---football-simulator)
 
+#### Python
+* [Python Stats Module]()
+
 ---
 
 ### Java Projects 
@@ -73,7 +76,11 @@ This enabled the following code to be compiled into raw binary data:
 
 This is a personal project I decided to create to learn the Hibernate framework. It scrapes 18000 players and their stats and information and stores them in a database. It makes use of Java’s persistence API for object mapping. It makes use of the Hungarian algorithm to calculate every teams best formation and team sheet, and using this generates attack and defensive ratings. I also built a simple UI to run a simple league simulation and see the league table.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sa5dl1AiVEY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/sa5dl1AiVEY' frameborder='0' allowfullscreen></iframe></div>
+
+---
+### Python
+
 
 ---
 
