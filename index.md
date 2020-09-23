@@ -27,6 +27,16 @@ For my Thesis I created a gravitational N-Body simulator in Java. I implemented 
 
 An aspect of this project I am particularly proud of is my derivation for the conditions of an eclipse, using vector geometry and trigonemetry. Along with the derivation for an estimation of the intensity of the eclipse too.
 
+---
+[Simulating B Meson Events in the LHCb](https://github.com/JamesPeters98/PHYS488-Project)
+
+This was a group project in my 3rd year of my degree where the goal was to simulate the production and detection of B mesons in the LHCb detector. My role in the group was to implement an algorithm to fit straight lines in 3 dimensions, and then using those straight lines find the nearest point to the set of those lines - which turns out to be much more complicated than in 2 dimensions. I used a combination of Principal Component Analysis and a Least squares approach to fit the lines and then solve for a point P using Gaussian elimination.
+
+I also implemented the 3D graphing library using Orson Charts to visualise our events and help debug our simulation:
+
+<img src="https://i.imgur.com/ohexefc.gif"/>
+
+
 
 ---
 
