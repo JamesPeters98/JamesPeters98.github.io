@@ -50,7 +50,7 @@ In it's current state I have managed to get the emulator to boot past the Bootro
 <img src="https://raw.githubusercontent.com/JamesPeters98/JavaGameboyEmulator/master/images/GameBoyEmu.gif"/>
 
 ---
-[Custom CPU Assembler](https://github.com/JamesPeters98/JavaGameboyEmulator
+[Custom CPU Assembler](https://github.com/JamesPeters98/JavaGameboyEmulator)
 
 After working on the Gameboy emulator I wanted to further explore assembly language and how it relates to the bare metal cpu. For this I decided to create a custom CPU and ROM using Arduino's (This is explained in my C++ section). I already had the opcode table and binary code working on the CPU so I decided to write an assembler in Java. The basics of the assembler was actually quite easy: first all comments and extra white space was removed, second the type of command was decided based on the tabbing of the code, and second the command matching was just a simple regex pattern. 
 
@@ -135,7 +135,6 @@ number:
 
 </p>
 </details>
-
 
 ---
 
