@@ -71,7 +71,9 @@ This enabled the following code to be compiled into raw binary data:
 ---
 #### [Hibernate - Football Simulator](https://github.com/JamesPeters98/Hibernate-Football)
 
+This is a personal project I decided to create to learn the Hibernate framework. It scrapes 18000 players and their stats and information and stores them in a database. It makes use of Java’s persistence API for object mapping. It makes use of the Hungarian algorithm to calculate every teams best formation and team sheet, and using this generates attack and defensive ratings. I also built a simple UI to run a simple league simulation and see the league table.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sa5dl1AiVEY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
