@@ -1,8 +1,13 @@
 ## Portfolio
 
 ### Projects
-
-* [Spigot](#minecraft-spigot-plugin---chests)
+#### Java
+* [Minecraft Spigot Plugin - Chests++](#minecraft-spigot-plugin---chests)
+* [Master's Project - N-Body Simulations & Their Applications](#masters-project---n-body-simulations--their-applications)
+* [Simulating B Meson Events in the LHCb](#simulating-b-meson-events-in-the-lhcb)
+* [GameBoy (DMG) Emulator](#gameboy-dmg-emulator)
+* [Custom CPU Assembler](#custom-cpu-assembler)
+* [Hibernate - Football Simulator](#hibernate---football-simulator)
 
 ---
 
