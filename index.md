@@ -36,7 +36,18 @@ I also implemented the 3D graphing library using Orson Charts to visualise our e
 
 <img src="https://i.imgur.com/ohexefc.gif"/>
 
+For this project I'm particularly proud of how I implemented multithreading for the simulation which improved our performance compared to our peers. This meant we could produce much more data in a shorter timespan. My personal investigation using the simulation was on the effects of resolution on the detector.
 
+This project demonstrated my ability to program with a team, which I took lead of and helped distribute the workload.After completing the project we presented our findings to a panel which required good verbal communication.
+
+---
+[GameBoy (DMG) Emulator](https://github.com/JamesPeters98/JavaGameboyEmulator)
+
+I decided to start this project to learn more about low level computing as this was something I'm extremely interested about but something I hadn't dove into properly. The original Gameboy felt like a good place to start since it was familiar to me, it was 8 bit, and is one of the most well documented console. I chose Java for this project since at the time I was most familiar with it and starting a project as daunting as emulation I didn't want any bugs to be introduced due to silly mistakes within the language. (It turns out Java isn't great when dealing with emulation since it doesn't provide unsigned types, which can be a pain when debugging and dealing with bitwise operations.)
+
+In it's current state I have managed to get the emulator to boot past the Bootrom and into the Tetris intro and menu!
+
+<img src="https://raw.githubusercontent.com/JamesPeters98/JavaGameboyEmulator/master/images/GameBoyEmu.gif"/>
 
 ---
 
