@@ -15,7 +15,8 @@ section {
   height: 350px; 
 }
 
-@media print, screen and (max-width: 960px)
-section {
-  width: auto; 
+@media print, screen and (max-width: 960px){
+  section {
+    width: auto; 
+  }
 }
