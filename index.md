@@ -72,8 +72,7 @@ After working on the Gameboy emulator I wanted to further explore assembly langu
 
 This enabled the following code to be compiled into raw binary data, and also as a C file containing a byte array:
 
-  
-<script src="http://gist-it.appspot.com/https://github.com/JamesPeters98/Custom-CPU/blob/master/Assembler/rom.asm"></script>
+<script src="https://gist-it.appspot.com/https://github.com/JamesPeters98/Custom-CPU/blob/master/Assembler/rom.asm"></script>
 
 ---
 #### [Hibernate - Football Simulator](https://github.com/JamesPeters98/Hibernate-Football)
