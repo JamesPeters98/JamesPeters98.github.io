@@ -1,7 +1,7 @@
 ## Portfolio
 
 ### Projects
-#### Java
+#### [Java](#java-projects)
 * [Minecraft Spigot Plugin - Chests++](#minecraft-spigot-plugin---chests)
 * [Master's Project - N-Body Simulations & Their Applications](#masters-project---n-body-simulations--their-applications)
 * [Simulating B Meson Events in the LHCb](#simulating-b-meson-events-in-the-lhcb)
@@ -9,7 +9,7 @@
 * [Custom CPU Assembler](#custom-cpu-assembler)
 * [Hibernate - Football Simulator](#hibernate---football-simulator)
 
-#### Python
+#### [Python](#python-projects)
 * [Sequence Card Game](#sequence-card-game)
 * [Python Stats Module](#python-stats-module)
 
@@ -84,7 +84,7 @@ This is a personal project I decided to create to learn the Hibernate framework.
 ---
 
 ---
-### Python
+### Python Projects
 
 #### [Sequence Card Game](https://github.com/JamesPeters98/Sequence-Card-Game)
 
