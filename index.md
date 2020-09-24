@@ -70,7 +70,7 @@ In it's current state I have managed to get the emulator to boot past the Bootro
 
 After working on the Gameboy emulator I wanted to further explore assembly language and how it relates to the bare metal cpu. For this I decided to create a custom CPU and ROM using Arduino's (This is explained in my C++ section). I already had the opcode table and binary code working on the CPU so I decided to write an assembler in Java. The basics of the assembler was actually quite easy: first all comments and extra white space was removed, second the type of command was decided based on the tabbing of the code, and second the command matching was just a simple regex pattern. 
 
-This enabled the following code to be compiled into raw binary data:
+This enabled the following code to be compiled into raw binary data, and also as a C file containing a byte array:
 
   
 <script src="http://gist-it.appspot.com/https://github.com/JamesPeters98/Custom-CPU/blob/master/Assembler/rom.asm"></script>
@@ -81,6 +81,7 @@ This enabled the following code to be compiled into raw binary data:
 This is a personal project I decided to create to learn the Hibernate framework. It scrapes 18000 players and their stats and information and stores them in a database. It makes use of Java’s persistence API for object mapping. It makes use of the Hungarian algorithm to calculate every teams best formation and team sheet, and using this generates attack and defensive ratings. I also built a simple UI to run a simple league simulation and see the league table.
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/sa5dl1AiVEY' frameborder='0' allowfullscreen></iframe></div>
+---
 ---
 
 ---
@@ -98,6 +99,20 @@ During my final year of my masters I completed a statistics course in Python, th
 
 The final report can be read [here](https://github.com/JamesPeters98/Stats-Workshops/blob/master/Mini-Project/Particle_Project.pdf)
 
+---
+---
+
+### C/C++ Projects
+
+#### Custom CPU/ROM using Arduino
+
+I started this project to strength my skills in C++ as well as developing my knowledge of low level computing. It involves two arduinos, one acting as an EEPROM and the other as a CPU (It actually acts more like a SoC, combining the CPU, RAM, GPU and RAM). Both Arduinos were conneted to a common bus, that was just a breadboard containing LED's for the address and data pins. The cpu has an 8 bit design and currently has a 16KB address space.
+
+The CPU has a basic opcode matrix that include methods for NOP, HALT, JUMPs, LOAD, STORE, CALL, RET, POP, PUSH, ADD, SUB, INC, DEC, AND, OR. And currently has Zero and Carry flags. I based it off a combination of the 6502 and the original Gameboy.
+
+In it's current configuration using the rom built using the [Java based Assembler](#custom-cpu-assembler) it is able to output the following 'Hello World' program.
+
+<img src="https://camo.githubusercontent.com/21e872b72579a8e73f984af1cea40c5d8591490f/68747470733a2f2f692e696d6775722e636f6d2f354157624772532e706e67" />
 
 
 ---
