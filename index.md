@@ -81,9 +81,22 @@ This enabled the following code to be compiled into raw binary data:
 This is a personal project I decided to create to learn the Hibernate framework. It scrapes 18000 players and their stats and information and stores them in a database. It makes use of Java’s persistence API for object mapping. It makes use of the Hungarian algorithm to calculate every teams best formation and team sheet, and using this generates attack and defensive ratings. I also built a simple UI to run a simple league simulation and see the league table.
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/sa5dl1AiVEY' frameborder='0' allowfullscreen></iframe></div>
+---
 
 ---
 ### Python
+
+#### [Sequence Card Game](https://github.com/JamesPeters98/Sequence-Card-Game)
+
+This is a simple Python game using PyGame, it's an implementation of the sequence card game with a UI to play it. I plan to use reinforcement learning to develop an AI to play the game and eventually beat human players.
+
+<img src="https://raw.githubusercontent.com/JamesPeters98/Sequence-Card-Game/master/image.png" />
+
+#### [Python Stats Module](https://github.com/JamesPeters98/Stats-Workshops)
+
+During my final year of my masters I completed a statistics course in Python, this involved multiple workshops completing various statistical analysis'. The course ended with a project that involved the fitting of curves with the use of 'scipy' and it's optimisation library. Calculating Chi^2 plots, residual plots and significance values. The goal of the project was to calculate the mass of the Higgs using the plot of counts vs energy.
+
+The final report can be read [here](https://github.com/JamesPeters98/Stats-Workshops/blob/master/Mini-Project/Particle_Project.pdf)
 
 
 
