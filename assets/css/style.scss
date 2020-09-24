@@ -15,6 +15,10 @@ section {
   height: 350px; 
 }
 
+img#logo {
+  border-radius: 50%; 
+}
+
 @media print, screen and (max-width: 1200px){
   section {
       border: 1px solid #e5e5e5;
