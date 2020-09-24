@@ -104,7 +104,7 @@ The final report can be read [here](https://github.com/JamesPeters98/Stats-Works
 
 ### C/C++ Projects
 
-#### Custom CPU/ROM using Arduino
+#### [Custom CPU/ROM using Arduino](https://github.com/JamesPeters98/Custom-CPU)
 
 I started this project to strength my skills in C++ as well as developing my knowledge of low level computing. It involves two arduinos, one acting as an EEPROM and the other as a CPU (It actually acts more like a SoC, combining the CPU, RAM, GPU and RAM). Both Arduinos were conneted to a common bus, that was just a breadboard containing LED's for the address and data pins. The cpu has an 8 bit design and currently has a 16KB address space.
 
