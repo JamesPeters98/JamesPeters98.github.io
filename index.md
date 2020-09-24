@@ -13,8 +13,8 @@
 * [Sequence Card Game](#sequence-card-game)
 * [Python Stats Module](#python-stats-module)
 
-#### C/C++
-* [Custom CPU/ROM Arduino]()
+#### [C/C++](#cc-projects)
+* [Custom CPU/ROM Arduino](#custom-cpurom-using-arduino)
 
 ---
 
