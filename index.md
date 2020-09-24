@@ -10,8 +10,8 @@
 * [Hibernate - Football Simulator](#hibernate---football-simulator)
 
 #### Python
-* [Sequence Card Game]()
-* [Python Stats Module]()
+* [Sequence Card Game](#sequence-card-game)
+* [Python Stats Module](#python-stats-module)
 
 #### C/C++
 * [Custom CPU/ROM Arduino]()
